@@ -1,0 +1,23 @@
+Cody Snow
+QAP2
+Java
+
+1. How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
+
+Given everything that happened last week it was hard for me to keep track of all the hours as I had a lot going on. If i had to ball park it, maybe ten hours or so? Between just brain storming and writing code out, but that could be off, likely in the more hours category.
+
+2. What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+
+I have been using a bootcamp called coddy.tech, i also googled some of the math related functions which brought me to scaler.com, other than that it was mainly lectures and w3 schools
+
+3. Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
+
+I did not
+
+4. Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
+
+I did not
+
+5. Rate (subjectively) the difficulty of each question from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+
+This was sort of the opposite of the last assignement, where I found it got a little more challenging as i progressed through it
